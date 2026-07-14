@@ -1,0 +1,22 @@
+Stamp_Sales_Software/
+│
+├── main.py
+├── 
+├── database.py
+│
+├── ui/
+│   ├── __init__.py
+│   ├── dashboard.py
+│   ├── manage_accounts.py
+│   ├── transaction.py
+│   ├── 
+│   └── reports.py
+│
+├── database/
+│   └── account.db
+│
+├── assets/
+│   ├── logo.png
+│   └── icon.ico
+│
+└── backup/
